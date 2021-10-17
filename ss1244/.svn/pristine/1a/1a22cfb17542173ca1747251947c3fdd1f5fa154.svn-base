@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="TextView1" type="id" />
+    <item name="TextView2" type="id" />
+    <item name="TextView3" type="id" />
+    <item name="TextView4" type="id" />
+    <item name="TextView5" type="id" />
+    <item name="TextView6" type="id" />
+    <item name="TextView7" type="id" />
+    <item name="TextView8" type="id" />
+    <item name="TextView9" type="id" />
+    <item name="kotlin_btn" type="id" />
+</resources>
